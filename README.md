@@ -30,25 +30,25 @@ Expected features include:
 
 Features
 
-Applicant_ID
-Applicant_Income
-Coapplicant_Income
-Employment_Status
-Age
-Marital_Status
-Dependents
-Credit_Score
-Existing_Loans
-DTI_Ratio
-Savings
-Collateral_Value
-Loan_Amount
-Loan_Term
-Loan_Purpose
-Property_Area
-Education_Level
-Gender
-Employer_Category
+Applicant_ID,
+Applicant_Income,
+Coapplicant_Income,
+Employment_Status,
+Age,
+Marital_Status,
+Dependents,
+Credit_Score,
+Existing_Loans,
+DTI_Ratio,
+Savings,
+Collateral_Value,
+Loan_Amount,
+Loan_Term,
+Loan_Purpose,
+Property_Area,
+Education_Level,
+Gender,
+Employer_Category,
 Loan_Approved (Target)
 
 
